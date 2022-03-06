@@ -1,5 +1,5 @@
 - Hi, I'm SmartyNotchy!
-- I'm a budding computer programmer who specializes in writing games and websites!
+- I'm a budding computer programmer who specializes in coding games and websites!
 - I also enjoy playing Terraria and making custom maps for Celeste.
 - Languages include JS & HTML, Python, C & C++, and Java
 
