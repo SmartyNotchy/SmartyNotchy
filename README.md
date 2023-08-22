@@ -1,8 +1,8 @@
-- Hi, I'm SmartyNotchy!
-- I'm a budding computer programmer who specializes in coding games and websites!
-- I also enjoy playing Terraria and making custom maps for Celeste.
-- Languages include JS & HTML, Python, C & C++, and Java
+Hi there! If you're checking out my profile, thanks for stopping by!
 
+I mainly host my Javascript websites and projects here, you can check them out if you'd like :)
+
+I've also made a bunch of Python text-based games, they're on my replit at https://replit.com/@SmartyNotchy.
 
 <!---
 SmartyNotchy/SmartyNotchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
