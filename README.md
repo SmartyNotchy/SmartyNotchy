@@ -1,3 +1,5 @@
+**Visit my website at https://smartynotchy.github.io!**
+
 Hi there! If you're checking out my profile, thanks for stopping by!
 
 I mainly host my Javascript websites and projects here, you can check them out if you'd like :)
