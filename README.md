@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=SmartyNotchy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 **Visit my website at https://smartynotchy.github.io!**
 
 Hi there! If you're checking out my profile, thanks for stopping by!
