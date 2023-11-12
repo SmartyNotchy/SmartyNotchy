@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=SmartyNotchy&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SmartyNotchy&theme=juicyfresh&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Visit my website at https://smartynotchy.github.io!**
 
