@@ -19,8 +19,8 @@ I'm a high school student, and I'm really passionate about working with computer
 - My Console Games on Replit ([View my profile](https://replit.com/@SmartyNotchy))
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=smartynotchy&layout=compact&theme=dark&rank_icon=github&ring_color=33cc33)
+   ![](https://github-readme-stats.vercel.app/api?username=smartynotchy&layout=compact&theme=dark&rank_icon=github&ring_color=33cc33)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartynotchy&layout=compact&theme=dark)
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartynotchy&layout=compact&theme=dark)
 
 ![](https://raw.githubusercontent.com/smartynotchy/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
