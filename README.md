@@ -1,15 +1,26 @@
 # Hey there, I'm Pilliam W! :wave:
+![](https://img.shields.io/badge/he/him-0099FF)
+![](https://raw.githubusercontent.com/smartynotchy/cf-stats/main/output/rating.svg)
+![](https://img.shields.io/badge/USACO_Division-Silver-C0C0C0)
+![](https://img.shields.io/github/followers/smartynotchy?color=blue&logo=github)
+![](https://komarev.com/ghpvc/?username=smartynotchy)
 
+## About Me
+I'm a high school student, and I'm really passionate about working with computers and creating games and other projects with them. Aspiring to be a game dev in the future, but if that doesn't work out I'm comfortable with most programming-related jobs. I have decent experience with developing games and am proficient in multiple programming languages, and I'm excited to continue to work with computers and create projects that anyone can enjoy.
 
+## Currently Working On:
+- Polly Programmer: The Game
+- High School
 
-Hi there! If you're checking out my profile, thanks for stopping by! I'm a huge
+## Portfolio
+- [My Personal Website](https://smartynotchy.github.io)
+- [Presleyn](https://github.com/SmartyNotchy/Presleyn/releases/)
+- [LunaSim Dark Mode](https://github.com/oboy-1/LunaSim/pull/9) (Review Pending)
+- My Console Games on Replit ([View my profile](https://replit.com/@SmartyNotchy))
 
-I mainly host my Javascript websites and projects here, you can check them out if you'd like :)
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=smartynotchy&layout=compact&theme=dark&rank_icon=github&ring_color=33cc33)
 
-I've also made a bunch of Python text-based games, they're on my replit at https://replit.com/@SmartyNotchy.
-
-**Visit my [personal website](https://smartynotchy.github.io)!**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SmartyNotchy&theme=juicyfresh&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartynotchy&layout=compact&theme=dark)
 
 ![](https://raw.githubusercontent.com/smartynotchy/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
