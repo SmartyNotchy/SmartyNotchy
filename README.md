@@ -10,7 +10,7 @@
 I'm a high school student, and I'm really passionate about working with computers and creating games and other projects with them. Aspiring to be a game dev in the future, but if that doesn't work out I'm comfortable with most programming-related jobs. I have decent experience with developing games and am proficient in multiple programming languages, and I'm excited to continue to work with computers and create projects that anyone can enjoy.
 
 ## Currently Working On:
-- *P9|_1'/ P12<>612λ/|\^^£я: T|-|£ G@]V[3* (hmmm...)
+- Secret Video Game
 - High School
 
 ## Portfolio
