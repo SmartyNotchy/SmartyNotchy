@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/he/him-0099FF)
 ![](https://raw.githubusercontent.com/smartynotchy/cf-stats/main/output/rating.svg)
 ![](https://img.shields.io/badge/USACO_Division-Silver-C0C0C0)
+![](https://img.shields.io/badge/CP_XVI-16--3526_(Plat._States)-e5e4e2)
 ![](https://img.shields.io/github/followers/smartynotchy?color=blue&logo=github)
 ![](https://komarev.com/ghpvc/?username=smartynotchy)
 
