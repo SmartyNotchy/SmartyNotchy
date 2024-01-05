@@ -10,7 +10,8 @@
 Hi, I'm Pilliam Wark (real name William Park, but shhhh). I'm a high school student, and I'm really passionate about working with computers and creating games and other projects with them. My dream job would be a game developer, but if that doesn't work out I'm comfortable with most programming-related jobs. I have decent experience with developing games and am proficient in multiple programming languages, and I'm excited to continue to work with computers and create projects that anyone can enjoy.
 
 ## Currently Working On:
-- Secret Video Game
+- Some random coding projects here and there
+- Maintaining the PHS Discord Helper Bot
 - High School
 
 ## Portfolio
