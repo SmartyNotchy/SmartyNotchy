@@ -9,7 +9,7 @@
 ## About Me
 Hi, I'm Pilliam Wark (real name William Park, but shhhh). I'm a high school student, and I'm really passionate about working with computers and creating games and other projects with them. My dream job would be a game developer, but if that doesn't work out I'm comfortable with most programming-related jobs. I have decent experience with developing games and am proficient in multiple programming languages, and I'm excited to continue to work with computers and create projects that anyone can enjoy.
 
-I also speedrun Celeste in my free time. Current PB is a 38:42.285, roughly Top 1000 worldwide :)
+I also speedrun Celeste in my free time. Current PB is a 37:49.092, roughly Top 1000 worldwide :)
 
 ## Currently Working On:
 - Some random coding projects here and there
