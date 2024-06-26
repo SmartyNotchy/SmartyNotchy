@@ -19,7 +19,7 @@ I also speedrun Celeste in my free time. Current PB is a 37:49.092, roughly Top 
 ## Portfolio
 - [My Personal Website](https://smartynotchy.github.io)
 - [Presleyn](https://github.com/SmartyNotchy/Presleyn/releases/)
-- [LunaSim Dark Mode](https://github.com/oboy-1/LunaSim/pull/9) (Review Pending)
+- [LunaSim Dark Mode](https://github.com/oboy-1/LunaSim/pull/9)
 - My Console Games on Replit ([View my profile](https://replit.com/@SmartyNotchy))
 
 ## Stats
